@@ -27,7 +27,7 @@
      line-height: 1.6;
      color: var(--forest-green);
      background: var(--bg-cream);
-     overflow-x: hidden;
+     /* overflow-x: hidden; */
  }
 
  .container {
@@ -419,6 +419,7 @@
 
  /* Why First Section */
  .why-first {
+    overflow: hidden;
      padding: 100px 0;
      background: var(--bg-cream);
  }
